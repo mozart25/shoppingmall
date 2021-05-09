@@ -1,18 +1,24 @@
 {
-  "name": "shoppingmall_2023",
-  "type": "module",
+  "name": "ecommerce_backend_2023",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/app.js",
+  "type": "module",
+  "description": "Setup side project structure",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozart25/shoppingmall_backend.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "dotenv-safe": "^8.2.0"
+  "bugs": {
+    "url": "https://github.com/mozart25/shoppingmall_backend/issues"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  }
+  "homepage": "https://github.com/mozart25/shoppingmall_backend#readme"
 }
