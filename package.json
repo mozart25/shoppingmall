@@ -5,6 +5,7 @@
   "description": "Setup side project structure",
   "main": "index.js",
   "dependencies": {
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.7"
   },
   "devDependencies": {},
